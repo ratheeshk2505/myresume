@@ -1,0 +1,30 @@
+body{
+    height: 1100px;
+}
+.imgstyle {
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;  
+    margin-bottom: 25px; 
+}
+.imag-center{
+    text-align: center;
+    margin-top: 30px;
+    
+}
+/* .minwid{
+    min-width: 200px;
+} */
+a{
+    text-decoration: none;
+}
+hr.darkside1{
+    border: 5px solid grey;
+}
+hr.whiteside1{
+    border: 5px solid black;
+    margin-top: 17px;
+}
+/* hr {
+    border: 5px solid black;
+} */
